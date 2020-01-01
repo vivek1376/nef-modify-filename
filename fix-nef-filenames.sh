@@ -3,7 +3,6 @@
 
 dir="/media/vivek/NIKON D5300/DCIM/100D5300/"
 
-# set -x
 if [[ $# -eq 1 ]]; then
 	dir=$1
 fi
